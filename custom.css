@@ -134,6 +134,8 @@ h2 {
     border-style: none;
     background-color: rgba(199,110,110,0.9);
     color: white;
+    padding: 2%;
+    margin: 2%;
 }
 
 .background {
