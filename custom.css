@@ -1,0 +1,261 @@
+body {
+    color: black;
+    font-size: 14px;
+    
+}
+
+h1 { 
+    font-size: 2em !important   ;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    color: grey;
+}
+
+.jumbotron {
+    background: whitesmoke;
+    margin: 3%;
+    }
+
+.site-title {
+    font-size: 2.5rem;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-weight: 400;
+    letter-spacing: 10px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #c76e6e;
+}
+
+.site-header {
+    background: white;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.form-control {
+    width: 150px;
+}
+
+.form-inline {
+    padding-bottom: 3%;
+}
+.fa-copyright { 
+    color: white;
+    padding-right: 4%;
+}
+
+img {
+    width: 30%;
+    height: auto;
+}
+
+.card-img-top {
+    max-height: 250px !important;
+    width: auto;
+}
+
+/*
+
+header {
+    height: 10vh;
+}
+
+
+h4 {
+    font-size: medium;
+}
+*/
+.navbar-default {
+    background: whitesmoke !important;
+  
+}
+
+
+.col-sm-3 {
+    margin: .5em;
+    align-items: center;
+
+}
+
+
+
+
+
+.fas {
+    color:  #c76e6e;
+}
+
+
+.btn {
+    background: none;
+    color: black;
+    font-size: 14px;
+}
+
+
+img {
+    max-height: 300px;
+    width: auto;
+    padding: 5%;
+}
+
+.img-fluid {
+    max-height: 60vh !important;
+}
+
+.about { 
+    background-color: whitesmoke;
+    padding-left: 5%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-right: 5%%;
+    text-align: left;
+    color: black;
+    margin-bottom: 3%;
+}
+
+.textbox { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(48, 47, 47);
+    padding-left: 5%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-right: 5%%;
+}
+
+h2 {
+    font-size: 1.5em !important   ;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    color:  rgb(199,110,110);
+}
+
+.btn-primary:hover {
+    background-color: #ffd8d8;
+    color: black;
+}
+
+.btn-primary {
+    border-style: none;
+    background-color: rgba(199,110,110,0.9);
+    color: white;
+}
+
+.background {
+    background-color: white;
+}
+
+.nav-link {
+    color: grey !important;
+}
+
+.card {
+   background:  white;
+   padding-left: 2px;
+   padding-right: 2px;
+   margin: 2% 2%;
+   min-width: 320px;
+}
+
+.fab { 
+    padding-left: 3%;
+    padding-right: 3%;
+    color: white;
+}
+
+.fa-dolly {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.fa-shopping-bag {
+    color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.fa-shopping-basket {
+    color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.img-fluid {
+    max-height: 240px;
+}
+
+.col-10 {
+    align-self: center;
+}
+/*
+.row {
+    height: 60vh;
+}
+
+
+.card {
+    height: 15vh;
+    margin: 2% 0;
+}
+
+.card-text {
+    font-size: small;
+}
+
+*/
+
+h4 {
+    font-size: 1.5rem;
+}
+
+
+
+
+.bottom-row {
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background:  rgb(199,110,110);
+    height: 15vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    padding-top: 5vh;
+}
+
+.col-sm-11 {
+    align-items: left;
+    text-align: left;
+}
+
+.col-sm-8 {
+    align-items: center;
+    justify-content: center;
+}
+
+main { 
+    min-height: 50vh;
+
+}
+
+.fa-search {
+    color: white;
+}
+
+.copyright {
+    color: white;
+}
