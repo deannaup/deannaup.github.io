@@ -57,17 +57,6 @@ img {
     width: auto;
 }
 
-/*
-
-header {
-    height: 10vh;
-}
-
-
-h4 {
-    font-size: medium;
-}
-*/
 .navbar-default {
     background: whitesmoke !important;
   
@@ -111,7 +100,7 @@ img {
     padding-left: 5%;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
-    padding-right: 5%%;
+    padding-right: 5%;
     text-align: left;
     color: black;
     margin-bottom: 3%;
@@ -124,7 +113,7 @@ img {
     padding-left: 5%;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
-    padding-right: 5%%;
+    padding-right: 5%;
 }
 
 h2 {
@@ -191,22 +180,6 @@ h2 {
 .col-10 {
     align-self: center;
 }
-/*
-.row {
-    height: 60vh;
-}
-
-
-.card {
-    height: 15vh;
-    margin: 2% 0;
-}
-
-.card-text {
-    font-size: small;
-}
-
-*/
 
 h4 {
     font-size: 1.5rem;
