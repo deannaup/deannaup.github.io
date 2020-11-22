@@ -83,6 +83,7 @@ img {
     color: black;
     font-size: 14px;
     padding-top: 2%;
+    padding: 3%;
     margin: 2%;
 }
 
@@ -134,7 +135,7 @@ h2 {
     border-style: none;
     background-color: rgba(199,110,110,0.9);
     color: white;
-    padding: 2%;
+    padding: 5%;
     margin: 2%;
 }
 
